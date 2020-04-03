@@ -1,0 +1,49 @@
+{
+  "questions": [
+    {
+      "question": "Who wrote the song 'Africa'?",
+      "answer": "TOTO",
+      "category": "music"
+    },
+    {
+      "question": "Who wrote the song 'All Out of Love'?",
+      "answer": "Air Supply",
+      "category": "music"
+    },
+    {
+      "question": "Who wrote the song 'Bohemian Rhapsody'?",
+      "answer": "Freddie Mercury (Queen)",
+      "category": "music"
+    },
+    {
+      "question": "Who published the incompleteness theorems",
+      "answer": "Kurt Goedel",
+      "category": "math"
+    },
+    {
+      "question": "Does 0.999... equal 1?",
+      "answer": "Yes",
+      "category": "math"
+    },
+    {
+      "question": "Are there infinite prim numbers?",
+      "answer": "Yes",
+      "category": "math"
+    },
+    {
+      "question": "What is the airspeed of a swallow",
+      "answer": "50 – 65 km per hour",
+      "category": "nature"
+    },
+    {
+      "question": "Which is the largest mammal on earth?",
+      "answer": "Blue Whale",
+      "category": "nature"
+    },
+    {
+      "question": "Which is the strongest animal in the world?",
+      "answer": "Elephants",
+      "category": "nature"
+    }
+  ]
+}

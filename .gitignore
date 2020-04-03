@@ -1,4 +1,5 @@
 .idea/
-tri-pur-backend/build
-tri-pur-frontend/node_modules
+tri-pur-backend/build/
+tri-pur-backend/node_modules/
+tri-pur-frontend/node_modules/
 

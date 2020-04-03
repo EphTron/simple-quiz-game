@@ -1,0 +1,8 @@
+{
+  "server": {
+    "port": 42001
+  },
+  "database": {
+    "name": "quiz-game"
+  }
+}
